@@ -20,7 +20,7 @@ YUKSEKLIK = 600
 
 # Ekranı oluştur
 ekran = pygame.display.set_mode((GENISLIK, YUKSEKLIK))
-pygame.display.set_caption("Kanka'nın Macerası: Uzaylı Kod Avcısı")
+pygame.display.set_caption("Retro Gemi Oyunu")
 
 # Durum Yönetimi
 OYUN_DURUMU = "OYNANIYOR" 
@@ -245,4 +245,5 @@ while calisiyor:
     pygame.display.flip()
 
 # Pygame'i kapat
+
 pygame.quit()
