@@ -1,4 +1,4 @@
-# Retro Spaceship Game 🚀
+# Mini Retro Ship Game 🚀
 
 This is a fast-paced space shooter game developed by an 8th-grade student using Python and Pygame.
 
