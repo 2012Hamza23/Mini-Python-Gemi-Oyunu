@@ -16,7 +16,7 @@ This is a fast-paced space shooter game developed by an 8th-grade student using 
 
 ## Download (Windows .exe)
 
-[LINK TO .EXE FILE HERE] - The game's .exe file (runs offline).
+The game's .exe file (runs offline).
 
 ---
 
