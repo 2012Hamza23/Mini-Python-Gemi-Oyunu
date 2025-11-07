@@ -16,4 +16,5 @@ Bu, Python ve Pygame kullanılarak bir 8. sınıf öğrencisi tarafından geliş
 Oyunun .exe dosyasını (internetsiz çalışır) 
 
 
-**DİKKAT!! :** Uygulamayı kurduğunuzda yanındaki .py ve .png dosyalarınıda aynı klasöre atınız. Aksi halde oyun çalışmaz.  
+# **DİKKAT!! :** 
+Uygulamayı kurduğunuzda yanındaki .py ve .png dosyalarınıda aynı klasöre atınız. Aksi halde oyun çalışmaz.  
